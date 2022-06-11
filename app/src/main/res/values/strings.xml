@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">12hcrs</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="name">Type your first name here</string>
+    <string name="submit_name">Submit</string>
+    <string name="view_offers">View Offers</string>
+    <string name="msg_two">see these offers!</string>
+</resources>
